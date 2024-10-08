@@ -1,5 +1,4 @@
 ![logo](https://github.com/Kaskaya/Kaskaya/blob/main/bioshock%20banner.png)
-<h4 align="left">From my childhood, I have been a passionate technology enthusiast, continually sharpen my skills in language, programming, and design throughout the years. I am a quick learner and a versatile person eager to explore and experiment with new technologies</h4>
 
 
 <h4 align="left">From my childhood, I have been a passionate technology enthusiast, continually sharpening my skills in language, programming, and design throughout the years. I am a quick learner and a versatile person eager to explore and experiment with new technologies.</h4>
